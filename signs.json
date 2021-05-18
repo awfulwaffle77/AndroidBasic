@@ -1,0 +1,21 @@
+
+{
+  "modelName":"cnn_124",
+  "currentSpeed": 23,
+  "signs": [
+    {"left": 12,
+    "top":252,
+    "right":325, 
+    "bottom":412,
+   "name":"Stop",
+   "accuracy": 87.2
+    },
+  {"left": 12,
+    "top":252,
+    "right":325, 
+    "bottom":412,
+   "name":"GoLeft",
+   "accuracy": 27.9
+  }
+  ]
+}

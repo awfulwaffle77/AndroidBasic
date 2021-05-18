@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Licenta</string>
+    <string-array name="spinner_array">
+        <item>cnn_37_v2</item>
+        <item>old_knn_12</item>
+        <item>dl_model_2</item>
+    </string-array>
+    <string name="toGraphs">See graphs</string>
+    <string name="toUploadModel">Models</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

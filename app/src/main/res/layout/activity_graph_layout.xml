@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/date"
+        android:layout_width="110dp"
+        android:layout_height="47dp"
+        android:text="TextView"
+        tools:layout_editor_absoluteX="48dp"
+        tools:layout_editor_absoluteY="24dp" />
+
+    <TextView
+        android:id="@+id/interval"
+        android:layout_width="110dp"
+        android:layout_height="33dp"
+        android:layout_below="@+id/date"
+        android:layout_marginTop="15dp"
+        android:text="TextView"
+        tools:layout_editor_absoluteX="46dp"
+        tools:layout_editor_absoluteY="120dp" />
+</RelativeLayout>
